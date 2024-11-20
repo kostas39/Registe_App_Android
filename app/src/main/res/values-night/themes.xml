@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Theme.Register_App" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/blue_primary</item>
+        <item name="colorPrimaryVariant">@color/blue_primary_variant</item>
+        <item name="colorSecondary">@color/blue_secondary</item>
+
+        <!-- Status Bar Color -->
+        <item name="android:statusBarColor">@color/blue_primary_variant</item>
+        <!-- Navigation Bar Color -->
+        <item name="android:navigationBarColor">@color/blue_primary</item>
+    </style>
+</resources>
